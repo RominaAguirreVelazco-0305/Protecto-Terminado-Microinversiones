@@ -35,7 +35,7 @@ Aquí puedes encontrar algunas capturas de pantalla que muestran la interfaz del
  ![image](https://github.com/user-attachments/assets/f79d40d8-af98-40e8-a499-d95f4de5c9aa)
 
 - Calificación de estrellas del proyecto
- ![image](https://github.com/user-attachments/assets/a755cc68-46ab-4713-ac44-a20450f6dfd1)
+ ![image](https://github.com/user-attachments/assets/13431c3c-6e76-4e78-ae4b-54f18d3fbdae)
 
    
 8. **Pago con targeta de Crédito**
