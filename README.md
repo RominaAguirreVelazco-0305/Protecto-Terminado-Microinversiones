@@ -34,17 +34,17 @@ Aquí puedes encontrar algunas capturas de pantalla que muestran la interfaz del
 - Comentarios del proyecto
  ![image](https://github.com/user-attachments/assets/f79d40d8-af98-40e8-a499-d95f4de5c9aa)
 
--Calificación de estrellas del proyecto
-![image](https://github.com/user-attachments/assets/a755cc68-46ab-4713-ac44-a20450f6dfd1)
+- Calificación de estrellas del proyecto
+ ![image](https://github.com/user-attachments/assets/a755cc68-46ab-4713-ac44-a20450f6dfd1)
 
    
 8. **Pago con targeta de Crédito**
 
-![image](https://github.com/user-attachments/assets/8cdb3a01-59af-462b-bcc1-f2edcfed7988)
+ ![image](https://github.com/user-attachments/assets/8cdb3a01-59af-462b-bcc1-f2edcfed7988)
 
    
 9. **Ticked de pago de la inversión**
-![image](https://github.com/user-attachments/assets/56e8d943-b951-4f1e-bd1d-8826390f5502)
+ ![image](https://github.com/user-attachments/assets/56e8d943-b951-4f1e-bd1d-8826390f5502)
 
 
 10. **Mis inversiones creadas**
