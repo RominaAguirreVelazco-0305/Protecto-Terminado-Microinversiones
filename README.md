@@ -7,35 +7,43 @@
 Aquí puedes encontrar algunas capturas de pantalla que muestran la interfaz del proyecto y cómo funcionan sus principales características:
 
 1. **Home**  
+
 ![image](https://github.com/user-attachments/assets/bd91ef1b-cced-437a-abd2-6e99b471ac4a)
 
 
 2. **Login**  
+ 
  ![image](https://github.com/user-attachments/assets/1dba0607-02cd-444b-93ff-25d2cd65eaa8)
 
 
 3. **Register**  
+ 
  ![image](https://github.com/user-attachments/assets/f0dd9a5a-2f6d-4656-8141-8ced30d47cc6)
 
 
 4. **Contáctanos**  
+ 
  ![image](https://github.com/user-attachments/assets/ca119306-5a87-4224-bb88-ea7b65ee2a3a)
 
 
 5. **Proyectos con más inversiones**  
+ 
  ![image](https://github.com/user-attachments/assets/23cf72b0-3852-4c0b-a800-d05a82b49d11)
  ![image](https://github.com/user-attachments/assets/d20fb6bb-969e-45ce-8acf-28f1c29ec9b4)
  ![image](https://github.com/user-attachments/assets/5b2c1ec9-3d64-4493-800c-53ad53991f57)
 
 6. **Detalles de la inversión**
+
  ![image](https://github.com/user-attachments/assets/fa424693-66d8-4df7-8d1e-9eb4d09fec18)
  ![image](https://github.com/user-attachments/assets/2e88703f-8cfc-4e17-adf5-832172d27c22)
 
 - Comentarios del proyecto
+
  ![image](https://github.com/user-attachments/assets/f79d40d8-af98-40e8-a499-d95f4de5c9aa)
 
 - Calificación de estrellas del proyecto
- ![image](https://github.com/user-attachments/assets/13431c3c-6e76-4e78-ae4b-54f18d3fbdae)
+
+![image](https://github.com/user-attachments/assets/13431c3c-6e76-4e78-ae4b-54f18d3fbdae)
 
    
 8. **Pago con targeta de Crédito**
@@ -44,6 +52,7 @@ Aquí puedes encontrar algunas capturas de pantalla que muestran la interfaz del
 
    
 9. **Ticked de pago de la inversión**
+ 
  ![image](https://github.com/user-attachments/assets/56e8d943-b951-4f1e-bd1d-8826390f5502)
 
 
