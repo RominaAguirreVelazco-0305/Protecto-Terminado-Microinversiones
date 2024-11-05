@@ -34,8 +34,9 @@ Aquí puedes encontrar algunas capturas de pantalla que muestran la interfaz del
 
 6. **Detalles de la inversión**
 
- ![image](https://github.com/user-attachments/assets/fa424693-66d8-4df7-8d1e-9eb4d09fec18)
- ![image](https://github.com/user-attachments/assets/2e88703f-8cfc-4e17-adf5-832172d27c22)
+ ![image](https://github.com/user-attachments/assets/b0d3c2f8-50a4-4034-a2bf-e18052dbb17b)
+ ![image](https://github.com/user-attachments/assets/37cbc3de-3a9c-4d7b-9648-be72544e10ff)
+
 
 - Comentarios del proyecto
 
