@@ -58,21 +58,25 @@ Aquí puedes encontrar algunas capturas de pantalla que muestran la interfaz del
  ![image](https://github.com/user-attachments/assets/8cbd26a9-a92e-41dd-b96a-8d4ebcb571ec)
 
 11. **Editar Inversión**
+ 
  ![image](https://github.com/user-attachments/assets/7a08dfbd-9f0e-4038-a0b5-67d6454bf976)
 
 12. **Perfiles**  
+
  ![image](https://github.com/user-attachments/assets/c29b9a29-7695-444a-af2b-3c405a27bd68)
  ![image](https://github.com/user-attachments/assets/7cd0bc1f-13d1-4a91-95a2-3205492eb7c9)
 
 
 
 13. **Notificaciones de inversiones**  
+ 
  ![image](https://github.com/user-attachments/assets/34f7865f-0040-4f55-aa95-7cc8b2f24fe0)
  ![image](https://github.com/user-attachments/assets/1b573a96-ead7-44b6-8b65-c96379793dcd)
 
 
 
 14. **Cuenta con Modo Oscuro**
+ 
  ![image](https://github.com/user-attachments/assets/d40927c6-ca1f-4cfd-b65d-a8b869e2b8e9)
  ![image](https://github.com/user-attachments/assets/c528e447-6556-4393-b44b-29fd34587098)
  ![image](https://github.com/user-attachments/assets/46d0e813-d5b3-4c28-a4bc-058e287a33b5)
@@ -81,9 +85,8 @@ Aquí puedes encontrar algunas capturas de pantalla que muestran la interfaz del
 
 
 15. **ChatBox**  
+ 
  ![image](https://github.com/user-attachments/assets/e71fdde0-4c90-4d42-9cd8-bdf5feb15450)
-
-
 
 
 ## 📋 Descripción del Proyecto
